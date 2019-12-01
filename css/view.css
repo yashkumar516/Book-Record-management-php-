@@ -1,0 +1,23 @@
+#view{
+    border-style:solid ;
+    
+    margin-left:34%;
+}
+#view tr{
+    text-align:center;
+    background-color: pink;
+   
+}
+#view tr td{
+    padding:10px;
+    font-size:18px;
+}
+
+#view tr th{
+    background-color: lightgreen;
+    font-size:22px;
+}
+h1{
+    text-align: center;
+    font-size:35px;
+}
